@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@react-navigation/native-stack": "^6.9.26",
+    "react-native-gesture-handler": "^2.16.0"
+  }
+}
