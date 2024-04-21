@@ -11,7 +11,7 @@ function Home({navigation}){
           
 
             <Pressable 
-                onPress={()=>alert('clicked')}
+                onPress={()=>navigation.navigate('video')}
                 style={styles.voiceButton}>
 
                 <Image style = {styles.micImage}
